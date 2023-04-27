@@ -5,7 +5,7 @@
 🔭 I’m currently working on: Natural Language Processing<br>👯 I’m looking to collaborate on: Some Interesting ML Projects<br>🌱 I’m currently learning: Deep Learning<br>📫 How to reach me: bhuvaneshwar5555@gmail.com<br>⚡ Fun fact: I'm expert in Googling 😅
 
 
-<h3>Connect: </h3>
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#1246) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhuvaneshwar-ai) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/smartbhuvii) 
 
 # 💻 Tech Stack:
