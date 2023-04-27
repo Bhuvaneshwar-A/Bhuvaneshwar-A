@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhuvaneshwar A</h1>
-<h3 align="center">A Data Scientist, Data will talk to you, if you’re willing to listen.</h3>
+<h3 align="center">A Data Scientist - Data will talk, if you’re willing to listen.</h3>
 
 <h3>About Me: </h3>
 🔭 I’m currently working on: Natural Language Processing<br>👯 I’m looking to collaborate on: Some Interesting ML Projects<br>🌱 I’m currently learning: Deep Learning<br>📫 How to reach me: bhuvaneshwar5555@gmail.com<br>⚡ Fun fact: I'm expert in Googling 😅
